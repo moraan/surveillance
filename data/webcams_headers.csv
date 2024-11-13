@@ -1,0 +1,133 @@
+Url,Country,Country Code,Region,City,Lat,Lng,ZIP Code,Time Zone,Manufacturer
+http://80.32.125.254:8080/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER,"
+Spain
+","
+ES
+","
+Catalonia
+","
+ Barcelona.
+",41.388790,2.158990,08036,+01:00,"
+Mobotix
+"
+http://61.220.233.221/mjpg/video.mjpg,"
+Taiwan
+","
+TW
+","
+T'Ai-Wan
+","
+ Taoyuan.
+",24.993680,121.296960,330,+08:00,"
+Axis
+"
+http://62.242.189.219/mjpg/video.mjpg,"
+Denmark
+","
+DK
+","
+Midtjylland
+","
+ Tranbjerg.
+",56.090100,10.119370,8310,+01:00,"
+Axis
+"
+http://87.138.157.245/cgi-bin/faststream.jpg?stream=half&fps=15&rand=COUNTER,"
+Germany
+","
+DE
+","
+Nordrhein-Westfalen
+","
+ Garath.
+",51.140180,6.905340,40789,+01:00,"
+Mobotix
+"
+http://87.139.9.247/mjpg/video.mjpg,"
+Germany
+","
+DE
+","
+Nordrhein-Westfalen
+","
+ Garath.
+",51.140180,6.905340,40789,+01:00,"
+Mobotix
+"
+http://87.57.111.162/mjpg/video.mjpg,"
+Spain
+","
+ES
+","
+Islas Baleares
+","
+ Palma.
+",39.569390,2.650240,07001,+01:00,"
+Axis
+"
+http://87.26.119.204/mjpg/video.mjpg,"
+Italy
+","
+IT
+","
+Lazio
+","
+ Rome.
+",41.894740,12.483900,00100,+01:00,"
+Axis
+"
+http://87.26.119.204/mjpg/video.mjpg,"
+United States
+","
+US
+","
+Washington
+","
+ Pacific.
+",47.264550,-122.250120,98047,-08:00,"
+Axis
+"
+http://107.0.231.40:8084/mjpg/video.mjpg,"
+United States
+","
+US
+","
+Connecticut
+","
+ Shelton.
+",41.316490,-73.093160,06484,-05:00,"
+Axis
+"
+http://96.84.21.221:8082/mjpg/video.mjpg,"
+United States
+","
+US
+","
+New Jersey
+","
+ Mount Laurel.
+",39.947820,-74.911680,08054,-05:00,"
+Axis
+"
+http://109.190.32.145:81/mjpg/video.mjpg,"
+France
+","
+FR
+","
+Nord-Pas-De-Calais
+","
+ Roubaix.
+",50.694210,3.174560,59100,+01:00,"
+Axis
+"
+http://200.46.196.243/mjpg/video.mjpg,"
+Panama
+","
+PA
+","
+Panama
+","
+ Panama.
+",8.993600,-79.519730,-,-05:00,"
+Axis
+"
